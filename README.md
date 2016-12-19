@@ -2,11 +2,11 @@
 
 # Placeholder plugin for template containers
 
-This is the **Placeholder** plugin developed by plentymarkets. Use this plugin to display the content of this plugin in the template containers of the [Callisto 4](https://github.com/plentymarkets/callisto-4) template plugin.
+This is the **Placeholder** plugin developed by plentymarkets. Use this plugin to display the content of this plugin in the template containers of the [Ceres](https://github.com/plentymarkets/plugin-ceres) template plugin.
 
 ## Requirements
 
-This is a plugin for [plentymarkets 7](https://www.plentymarkets.com). A layout plugin is required in order to integrate this plugin in your online store. We recommend using the plentymarkets plugin [Callisto 4](https://github.com/plentymarkets/callisto-4).
+This is a plugin for [plentymarkets 7](https://www.plentymarkets.com). A layout plugin is required in order to integrate this plugin in your online store. We recommend using the plentymarkets plugin [Ceres](https://github.com/plentymarkets/plugin-ceres).
 
 ## Installing
 
@@ -16,7 +16,7 @@ For detailed information about plugin provisioning refer to [plentymarkets devel
 
 - Learn how to create your [first plentymarkets plugin](https://developers.plentymarkets.com/tutorials/helloworld)
 - Learn how to create this [Placeholder plugin](https://developers.plentymarkets.com/tutorials/container)
-- Overview of plentymarkets [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
+- Overview of plentymarkets [plugin interface](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
 - The plentymarkets [REST API](https://developers.plentymarkets.com/rest-doc/introduction)
 
 ## Join our community
